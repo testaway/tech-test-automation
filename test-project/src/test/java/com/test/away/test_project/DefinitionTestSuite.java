@@ -1,4 +1,4 @@
-package com.expleo.group.test_project;
+package com.test.away.test_project;
 
 import cucumber.api.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;

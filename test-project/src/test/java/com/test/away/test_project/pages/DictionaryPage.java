@@ -1,4 +1,4 @@
-package com.expleo.group.test_project.pages;
+package com.test.away.test_project.pages;
 
 import net.thucydides.core.annotations.DefaultUrl;
 import org.openqa.selenium.By;

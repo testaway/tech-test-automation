@@ -1,11 +1,12 @@
-package com.expleo.group.test_project.steps;
+package com.test.away.test_project.steps;
 
 import net.thucydides.core.annotations.Steps;
+
+import com.test.away.test_project.steps.serenity.EndUserSteps;
+
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-
-import com.expleo.group.test_project.steps.serenity.EndUserSteps;
 
 public class DefinitionSteps {
 

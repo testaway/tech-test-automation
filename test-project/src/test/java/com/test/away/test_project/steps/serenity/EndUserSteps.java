@@ -1,12 +1,13 @@
-package com.expleo.group.test_project.steps.serenity;
+package com.test.away.test_project.steps.serenity;
 
-import com.expleo.group.test_project.pages.DictionaryPage;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.steps.ScenarioSteps;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.hasItem;
+
+import com.test.away.test_project.pages.DictionaryPage;
 
 public class EndUserSteps {
 
