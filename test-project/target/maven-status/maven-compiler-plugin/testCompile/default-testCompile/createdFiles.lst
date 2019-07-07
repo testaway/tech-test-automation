@@ -1,0 +1,4 @@
+com\expleo\group\test_project\DefinitionTestSuite.class
+com\expleo\group\test_project\pages\DictionaryPage.class
+com\expleo\group\test_project\steps\DefinitionSteps.class
+com\expleo\group\test_project\steps\serenity\EndUserSteps.class

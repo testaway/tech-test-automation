@@ -1,0 +1,7 @@
+#surefire_0
+#Sun Jun 23 18:35:31 BST 2019
+basedir=D\:\\Workspace\\Workspace2018\\test-project
+webdriver.driver=chrome
+webdriver.chrome.driver=D\:\\DevelopmentTools\\ChromeDriverVersions\\75\\chromedriver.exe
+user.dir=D\:\\Workspace\\Workspace2018\\test-project
+localRepository=C\:\\Users\\khanm\\.m2\\repository
